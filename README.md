@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uchexm
 - 👀 I’m interested in Javascrit, Html, Css, Ruby
 - 🌱 I’m currently learning web3
-- 💞️ I’m looking to collaborate on React Native
+- 💞️ I’m looking to collaborate on React Native, Vue
 - 📫 How to reach me please reach me on nwakauc1@gmail.com
 
 <!---
