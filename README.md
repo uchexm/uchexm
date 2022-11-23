@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Fx trading bot**
 
-- 🤝 I’m looking for help with **Blockchain**
+- 🤝 I’m looking for help with **Automstion**
 
 - 👨‍💻 All of my projects are available at [https://uchexm.github.io/Portfolio/](https://uchexm.github.io/Portfolio/)
 
