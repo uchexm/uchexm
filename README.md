@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Ruby on rails, React and Bootstrap**
 
-- 📫 How to reach me **you can reach me on nwakauc1@gmail.com**
+- 📫 How to reach me **you can reach me on [gmail](nwakauc1@gmail.com)**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nwakauc/)
 
