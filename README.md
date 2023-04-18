@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://uchexm.github.io/Portfolio/](https://uchexm.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [Twitter](Twitter)
+- 📝 I regularly write articles on [Twitter](https://twitter.com/Nwakauc)
 
 - 💬 Ask me about **Ruby on rails, React and Bootstrap**
 
 - 📫 How to reach me **you can reach me on nwakauc1@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/uchechi-nwaka-79a21a75/](linkedin.com/in/uchechi-nwaka-79a21a75/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nwakauc/](https://www.linkedin.com/in/nwakauc/)
 
 - ⚡ Fun fact **I am a rebel with many causes**
 
