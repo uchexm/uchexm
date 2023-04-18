@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **Automation**
 
-- 👨‍💻 All of my projects are available at [uche.dev](https://uchexm.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Uche.dev](https://uchexm.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [Twitter](https://twitter.com/Nwakauc)
 
 - 💬 Ask me about **Ruby on rails, React and Bootstrap**
 
-- 📫 How to reach me **you can reach me on [gmail](mailto:nwakauc1@gmail.com)**
+- 📫 How to reach me **you can reach me on [Gmail](mailto:nwakauc1@gmail.com)**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nwakauc/)
 
