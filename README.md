@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Automation**
 
-- 👨‍💻 All of my projects are available at [Uche.dev](https://uchexm.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available [Uche.dev](https://uchexm.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [Twitter](https://twitter.com/Nwakauc)
 
