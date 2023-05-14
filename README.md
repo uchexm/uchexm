@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nwakauc" target="blank"><img src="https://img.shields.io/twitter/follow/nwakauc?logo=twitter&style=for-the-badge" alt="nwakauc" /></a> </p>
 
-- 🔭 I’m currently working on **TRADING AI**
+- 🔭 I’m currently working on **FX TRADING AI**
 
 - 🌱 I’m currently learning **Ruby on rails**
 
