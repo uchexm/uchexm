@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available [Uche.dev](https://uchexm.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [Medium](https://twitter.com/Nwakauc)
+- 📝 I regularly write articles on [Medium](https://medium.com/@nwakauc1)
 
 - 💬 Ask me about **Ruby on rails, React and Bootstrap**
 
