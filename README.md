@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevSecOps**
 
-- 👯 I’m looking to collaborate on **Fx trading bot**
+- 👯 I’m looking to collaborate on **ML/AI**
 
 - 🤝 I’m looking for help with **Automation**
 
