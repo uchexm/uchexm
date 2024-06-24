@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **FX TRADING AI**
 
-- 🌱 I’m currently learning **Ruby on rails**
+- 🌱 I’m currently learning **DevSecOps**
 
 - 👯 I’m looking to collaborate on **Fx trading bot**
 
