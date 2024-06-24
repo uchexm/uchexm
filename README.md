@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@nwakauc1)
 
-- 💬 Ask me about **Ruby on rails, React and Bootstrap**
+- 💬 Ask me about **Ruby on rails, React and NodeJs**
 
 - 📫 How to reach me **you can reach me on [Gmail](mailto:nwakauc1@gmail.com)**
 
