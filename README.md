@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ML/AI**
 
-- 🤝 I’m looking for help with **Automation**
+- 🤝 I’m looking for help with **Blockchain**
 
 - 👨‍💻 All of my projects are available [Uche.dev](https://uchexm.github.io/Portfolio/)
 
