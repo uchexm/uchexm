@@ -15,17 +15,17 @@
 
 - 🤝 I’m looking for help with **Blockchain**
 
-- 👨‍💻 All of my projects are available [Uche.dev](https://uchexm.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available on [Uche.dev](https://uchexm.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@nwakauc1)
 
-- 💬 Ask me about **Ruby on Rails, React and TypeScript**
+- 💬 Ask me about **Rails, .NET and TypeScript**
 
 - 📫 How to reach me **you can reach me on [Gmail](mailto:nwakauc1@gmail.com)**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/nwakauc/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/nwakauc/)
 
-- ⚡ Fun fact **I wanted to be a priest at some point 😅**
+- ⚡ Fun fact **I trained to be a priest at some point 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
