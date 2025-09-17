@@ -23,7 +23,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" height="30" /> Professional Journey
 
-I'm a passionate **Software Engineer** from South Africa 🇿🇦 with **7+ years** of experience building scalable applications.
+With 7+ years in software development, I’ve been CRUD monkeying to design and deliver robust, scalable systems from South Africa 🇿🇦.
 
 **Current Roles:**
 
