@@ -119,7 +119,7 @@ JavaScript   ████████     75%
 **Current Learning:**
 
 - ⛓️ Blockchain & Smart Contracts
-- 🤖 AI/ML Integration
+- 🤖 AI/ML Integration & MCP
 - 📰 Advanced Cloud Engineering
 - 🖥️ System Design and Architecture
 
