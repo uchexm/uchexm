@@ -244,9 +244,10 @@ Cloud Architecture     ████████░░  75%
 <td width="50%" align="center">
 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="20" height="20" /> Unique Journey**
-Trained to be a priest at the Vatican (and bunked lol 😜) learned discipline, patience, and ethics.
+
+Trained to be a priest at the Vatican (and bunked lol 😜). Learned discipline, patience, and ethics.
 Worked with a Fortune 500 giant (P&G 😉) on the business side.
-Now building in engineering — bringing sharp focus, strong work ethics, and a 10× mindset to everything I ship.
+Now building in engineering, bringing sharp focus, strong work ethics, and a 10× mindset to everything I ship.
 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="20" height="20" /> Code Fuel**
 
