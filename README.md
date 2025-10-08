@@ -30,7 +30,7 @@ With 7+ years in software development, I’ve been CRUD monkeying to design and 
 **Current Roles:**
 
 - 💼 Software Engineer at **[PSG](https://www.psg.co.za/)**
-- 👨‍🏫 Technical Mentor at **[GEC](https://www.gec.africa/)**
+- 👨‍🏫 Technical Mentor at **[GEC](https://globalemploymentchallenge.com/)**
 -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Innovation" width="20" height="20" /> Founder of **[rubydev.io](https://rubydev.io)**
 -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Innovation" width="20" height="20" /> Founder of **[justjapa.com](https://justjapa.com)**
 
