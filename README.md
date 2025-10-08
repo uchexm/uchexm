@@ -120,7 +120,8 @@ JavaScript   ████████     75%
 
 - ⛓️ Blockchain & Smart Contracts
 - 🤖 AI/ML Integration
-- 📰 Advanced Cloud Architecture
+- 📰 Advanced Cloud Engineering
+- 🖥️ System Design and Architecture
 
   </td>
 </tr>
