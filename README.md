@@ -37,7 +37,7 @@ With 7+ years in software development, I’ve been CRUD monkeying to design and 
 
 ### 🎯 Mission & Values
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Passion" width="20" height="20" /> **Passionate about:** Clean code, scalable architecture, and developer experience
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Passion" width="20" height="20" /> **Passionate about:** learning and professional growth. If there’s a new shiny tech out there, I’m probably already playing with it (or planning to Cough cough Omarchy 👀).
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Teaching" width="20" height="20" /> **Committed to:** Mentoring the next generation of developers
 
